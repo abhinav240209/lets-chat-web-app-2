@@ -1,0 +1,25 @@
+#body {
+    background-color:blueviolet;
+    
+}
+#user_name {
+    font-weight: bold;
+    }
+
+#room_name {
+    width:fit-content;
+    }
+#add_room {
+    background-color:red;
+    color:white;
+    height:35px;
+    border-radius: 20px;
+
+}
+
+#logout {
+    background-color:lightblue;
+    width:100px;
+    height:75px;
+    font-size: large;
+}
